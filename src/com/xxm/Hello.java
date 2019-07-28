@@ -7,6 +7,9 @@ package com.xxm;
  */
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("xxm");
+
+        System.out.println("xxm");      
+        int i = 1;
+
     }
 }
