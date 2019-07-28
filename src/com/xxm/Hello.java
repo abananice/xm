@@ -8,7 +8,8 @@ package com.xxm;
 public class Hello {
     public static void main(String[] args) {
 
-        System.out.println("master change");      
+        System.out.println("local");
+        System.out.println("master change");
         int i = 1;
 
     }
