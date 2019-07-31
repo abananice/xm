@@ -8,7 +8,7 @@ package com.xxm;
 public class Hello {
     public static void main(String[] args) {
         //select
-        System.out.println("local");
+        System.out.println("localllllll");
         System.out.println("master change");
         int i = 1;//冲突
 
