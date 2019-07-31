@@ -10,7 +10,7 @@ public class Hello {
         //select
         System.out.println("local");
         System.out.println("master change");
-        int i = 1;
+        int i = 1;//冲突
 
     }
 }
